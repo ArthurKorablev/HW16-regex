@@ -23,15 +23,16 @@ form{
 }
 .output{
     display: flex;
+    text-align: center;
     justify-content: center;
     align-items: center;
     width: 100%;
 }
 
 .mainDiv{
-    width: 20rem;
+    width: 22rem;
     border: 2px solid black;
-    padding: 1rem;
+    padding: 1.5rem;
     border-radius: 7px;
     box-shadow: 0px 0px 10px 1px rgb(71, 71, 71);
     background-color: rgb(237, 230, 230);
